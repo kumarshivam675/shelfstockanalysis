@@ -1,0 +1,4 @@
+q r EECKS
+" 5 Pk 12 01 mass
+
+IMF $11 49
